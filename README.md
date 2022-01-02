@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, folks 👋
+My name is Anusha Pandit. I'm a Quality Assurance Engineer/ Business Associate at Cognizant technology. I'm from India and living in Germany. You can find me on LinkedIn.
 
 <!--
 **anushapandit-code/anushapandit-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
