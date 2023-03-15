@@ -1,5 +1,5 @@
 ### Hello, folks 👋
-My name is Anusha Pandit. I'm a Quality Assurance Engineer/ Business Associate at Cognizant technology. I'm from India and living in Germany. You can find me on LinkedIn.
+My name is Anusha Pandit. I'm a Quality Assurance Engineer at Immowelt Germany. You can find me on LinkedIn.
 
 Skills: Python / HTML / CSS / MySQL / Selenium / Git / Rest API / Jira / Confluence / GitHub / Pytest / Jenkins / Agile / Page Object Model / PyCharm
 <!--
