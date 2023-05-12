@@ -1,7 +1,7 @@
 ### Hello, folks 👋
 My name is Anusha Pandit. I'm a Quality Assurance Engineer at Immowelt Germany. You can find me on LinkedIn.
 
-Skills: Python / HTML / CSS / MySQL / Selenium / Git / Rest API / Jira / Confluence / GitHub / Pytest / Jenkins / Agile / Page Object Model / PyCharm
+Skills: Python / HTML / CSS / MySQL / Selenium / Git / Rest API / Jira / Confluence / GitHub / Pytest / Jenkins / Agile / Page Object Model / PyCharm/ cypress/ typescript
 <!--
 **anushapandit-code/anushapandit-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
